@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64916ceb848ec84d92c4b4fa"
+  },
+  "SupervisorId": 1,
+  "EmployeeId": 34,
+  "WarehouseNumber": 12,
+  "Postal Address": "123 Street",
+  "City": "isb",
+  "District": "isb"
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b50c"
+  },
+  "SupervisorId": 2,
+  "EmployeeId": 68,
+  "WarehouseNumber": 34,
+  "Postal Address": "456 Avenue",
+  "City": "isb",
+  "District": "isb"
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b519"
+  },
+  "SupervisorId": 3,
+  "EmployeeId": 99,
+  "WarehouseNumber": 78,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "isb"
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b526"
+  },
+  "SupervisorId": 3,
+  "EmployeeId": 99,
+  "WarehouseNumber": 78,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "isb"
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b533"
+  },
+  "SupervisorId": 3,
+  "EmployeeId": 99,
+  "WarehouseNumber": 78,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "isb"
+}]

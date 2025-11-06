@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "64916c00848ec84d92c4b4f4"
+  },
+  "RegNo": 12345,
+  "NumberofBoxes": 10,
+  "size": 5,
+  "DriverLicense": 1323,
+  "shipments": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916d6d848ec84d92c4b501"
+  },
+  "RegNo": 12345,
+  "NumberofBoxes": 10,
+  "size": 5,
+  "DriverLicense": 1,
+  "shipments": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b506"
+  },
+  "RegNo": 67890,
+  "NumberofBoxes": 15,
+  "size": 7,
+  "DriverLicense": 2,
+  "shipments": [
+    4,
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b513"
+  },
+  "RegNo": 13579,
+  "NumberofBoxes": 8,
+  "size": 4,
+  "DriverLicense": 3,
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b520"
+  },
+  "RegNo": 13579,
+  "NumberofBoxes": 8,
+  "size": 4,
+  "DriverLicense": 3,
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b52d"
+  },
+  "RegNo": 13579,
+  "NumberofBoxes": 8,
+  "size": 4,
+  "DriverLicense": 3,
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+}]

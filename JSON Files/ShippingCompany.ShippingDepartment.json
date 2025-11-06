@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64916d41848ec84d92c4b4ff"
+  },
+  "DepartmentID": 3456,
+  "TotalOffices": 456,
+  "Warehouses": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b511"
+  },
+  "DepartmentID": 6789,
+  "TotalOffices": 789,
+  "Warehouses": [
+    2,
+    3,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b51e"
+  },
+  "DepartmentID": 9876,
+  "TotalOffices": 987,
+  "Warehouses": [
+    3,
+    4,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b52b"
+  },
+  "DepartmentID": 9876,
+  "TotalOffices": 987,
+  "Warehouses": [
+    3,
+    4,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b538"
+  },
+  "DepartmentID": 9876,
+  "TotalOffices": 987,
+  "Warehouses": [
+    3,
+    4,
+    5
+  ]
+}]

@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "64916cd3848ec84d92c4b4f8"
+  },
+  "cnic": 1234567890,
+  "employeeID": 1,
+  "salary": 5000,
+  "designation": 1,
+  "name": "John Doe",
+  "age": 30,
+  "Postal Address": "123 Street",
+  "City": "isb",
+  "District": "isb",
+  "contacts": [
+    {
+      "$numberLong": "3134566855"
+    },
+    462933812
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916d6d848ec84d92c4b505"
+  },
+  "cnic": 1234567890,
+  "employeeID": 1,
+  "salary": 5000,
+  "designation": 1,
+  "name": "John Doe",
+  "age": 30,
+  "Postal Address": "123 Street",
+  "City": "isb",
+  "District": "isb",
+  "contacts": [
+    {
+      "$numberLong": "3134566855"
+    },
+    462933812
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b50a"
+  },
+  "cnic": {
+    "$numberLong": "9876543210"
+  },
+  "employeeID": 2,
+  "salary": 6000,
+  "designation": 2,
+  "name": "Jane Smith",
+  "age": 25,
+  "Postal Address": "456 Avenue",
+  "City": "isb",
+  "District": "isb",
+  "contacts": [
+    461715831,
+    438870666
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b517"
+  },
+  "cnic": {
+    "$numberLong": "2468135790"
+  },
+  "employeeID": 3,
+  "salary": 7000,
+  "designation": 3,
+  "name": "Sarah Johnson",
+  "age": 35,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "isb",
+  "contacts": [
+    {
+      "$numberLong": "3416549876"
+    },
+    460774399
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b524"
+  },
+  "cnic": {
+    "$numberLong": "2468135790"
+  },
+  "employeeID": 3,
+  "salary": 7000,
+  "designation": 3,
+  "name": "Sarah Johnson",
+  "age": 35,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "isb",
+  "contacts": [
+    {
+      "$numberLong": "3416549876"
+    },
+    460774399
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b531"
+  },
+  "cnic": {
+    "$numberLong": "2468135790"
+  },
+  "employeeID": 3,
+  "salary": 7000,
+  "designation": 3,
+  "name": "Sarah Johnson",
+  "age": 35,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "isb",
+  "contacts": [
+    {
+      "$numberLong": "3416549876"
+    },
+    460774399
+  ]
+}]

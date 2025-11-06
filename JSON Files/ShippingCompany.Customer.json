@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "64916caa848ec84d92c4b4f5"
+  },
+  "cnic": 1234567890,
+  "CustomerId": 1,
+  "name": "John Doe",
+  "age": 30,
+  "Postal Address": "123 Street",
+  "City": "City Name",
+  "District": "District Name",
+  "contacts": [
+    446060846,
+    465255645
+  ],
+  "shipments": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916d6d848ec84d92c4b502"
+  },
+  "cnic": 1234567890,
+  "CustomerId": 1,
+  "name": "John Doe",
+  "age": 30,
+  "Postal Address": "123 Street",
+  "City": "City Name",
+  "District": "District Name",
+  "contacts": [
+    446060846,
+    465255645
+  ],
+  "shipments": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b507"
+  },
+  "cnic": {
+    "$numberLong": "9876543210"
+  },
+  "CustomerId": 2,
+  "name": "Jane Smith",
+  "age": 25,
+  "Postal Address": "456 Avenue",
+  "City": "City Name",
+  "District": "District Name",
+  "contacts": [
+    480590199,
+    423957585
+  ],
+  "shipments": [
+    4,
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b514"
+  },
+  "cnic": {
+    "$numberLong": "2468135790"
+  },
+  "CustomerId": 3,
+  "name": "Sarah Johnson",
+  "age": 35,
+  "Postal Address": "789 Road",
+  "City": "City Name",
+  "District": "District Name",
+  "contacts": [
+    {
+      "$numberLong": "3216549876"
+    },
+    460774399
+  ],
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b521"
+  },
+  "cnic": {
+    "$numberLong": "2468135790"
+  },
+  "CustomerId": 3,
+  "name": "Sarah Johnson",
+  "age": 35,
+  "Postal Address": "789 Road",
+  "City": "City Name",
+  "District": "District Name",
+  "contacts": [
+    {
+      "$numberLong": "3216549876"
+    },
+    460774399
+  ],
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b52e"
+  },
+  "cnic": {
+    "$numberLong": "2468135790"
+  },
+  "CustomerId": 3,
+  "name": "Sarah Johnson",
+  "age": 35,
+  "Postal Address": "789 Road",
+  "City": "City Name",
+  "District": "District Name",
+  "contacts": [
+    {
+      "$numberLong": "3216549876"
+    },
+    460774399
+  ],
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+}]

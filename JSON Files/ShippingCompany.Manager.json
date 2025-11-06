@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64916cde848ec84d92c4b4f9"
+  },
+  "ManagerId": 1,
+  "EmployeeId": 1345,
+  "bonus": 1000
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b50b"
+  },
+  "ManagerId": 2,
+  "EmployeeId": 2468,
+  "bonus": 1500
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b518"
+  },
+  "ManagerId": 3,
+  "EmployeeId": 369,
+  "bonus": 2000
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b525"
+  },
+  "ManagerId": 3,
+  "EmployeeId": 369,
+  "bonus": 2000
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b532"
+  },
+  "ManagerId": 3,
+  "EmployeeId": 369,
+  "bonus": 2000
+}]

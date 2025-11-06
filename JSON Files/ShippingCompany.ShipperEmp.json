@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64916ec814bb245fa6990923"
+  },
+  "CNIC": 123344343,
+  "Name": "Ali",
+  "Age": 12,
+  "Designation": "as",
+  "Salary": 23,
+  "Contact": 23,
+  "Shipper ID": 23,
+  "Total Deliveries": 23,
+  "Employee ID": 122,
+  "Remaining": 23,
+  "Tracking ID": 223
+}]

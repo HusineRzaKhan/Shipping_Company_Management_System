@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "64916d1b848ec84d92c4b4fe"
+  },
+  "TrackingId": 1,
+  "Weight": 50,
+  "Charges": 100,
+  "Postal Address": "123 Street",
+  "City": "isb",
+  "District": "Disb",
+  "Customer_CustomerId": 1,
+  "WareHouse_WareHouseNumber": 123,
+  "ContainerRegNo": 123,
+  "ShipperId": 1,
+  "products": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b510"
+  },
+  "TrackingId": 4,
+  "Weight": 70,
+  "Charges": 150,
+  "Postal Address": "456 Avenue",
+  "City": "isb",
+  "District": "Disb",
+  "Customer_CustomerId": 2,
+  "WareHouse_WareHouseNumber": 456,
+  "ContainerRegNo": 67890,
+  "ShipperId": 2,
+  "products": [
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b51d"
+  },
+  "TrackingId": 7,
+  "Weight": 60,
+  "Charges": 120,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "Disb",
+  "Customer_CustomerId": 3,
+  "WareHouse_WareHouseNumber": 789,
+  "ContainerRegNo": 13579,
+  "ShipperId": 3,
+  "products": [
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b52a"
+  },
+  "TrackingId": 7,
+  "Weight": 60,
+  "Charges": 120,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "Disb",
+  "Customer_CustomerId": 3,
+  "WareHouse_WareHouseNumber": 789,
+  "ContainerRegNo": 13579,
+  "ShipperId": 3,
+  "products": [
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b537"
+  },
+  "TrackingId": 7,
+  "Weight": 60,
+  "Charges": 120,
+  "Postal Address": "789 Road",
+  "City": "isb",
+  "District": "Disb",
+  "Customer_CustomerId": 3,
+  "WareHouse_WareHouseNumber": 789,
+  "ContainerRegNo": 13579,
+  "ShipperId": 3,
+  "products": [
+    3
+  ]
+}]

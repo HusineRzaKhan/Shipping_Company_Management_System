@@ -1,0 +1,15 @@
+// List<Document> pipeline = Arrays.asList(
+        //     Document.parse("{ $match: "+filter.toJson()+"}"),
+        //     Document.parse("{ $project: { _id: 1, Name: 1, 'Total Profit': 1 } }"),
+        //     Document.parse("{ $sort: { 'Total Profit': -1 } }")
+        //     );
+
+        // // Execute the aggregation pipeline
+        // AggregateIterable<Document> result = collection.aggregate(pipeline);
+
+        // StringBuilder sb = new StringBuilder();
+        // for (Document document : result) {
+        //     sb.append(document.toJson()).append("\n");
+        // }
+        // JOptionPane.showMessageDialog(null, sb.toString());
+        //Above code is an example of Pipeline

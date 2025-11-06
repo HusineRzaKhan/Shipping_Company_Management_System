@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64916d11848ec84d92c4b4fd"
+  },
+  "WareHouseNumber": 1,
+  "Shipping_DepId": 1,
+  "OpeningTime": "9:00 AM",
+  "ClosingTime": "5:00 PM",
+  "shipments": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b50f"
+  },
+  "WareHouseNumber": 2,
+  "Shipping_DepId": 2,
+  "OpeningTime": "10:00 AM",
+  "ClosingTime": "6:00 PM",
+  "shipments": [
+    4,
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b51c"
+  },
+  "WareHouseNumber": 3,
+  "Shipping_DepId": 3,
+  "OpeningTime": "8:00 AM",
+  "ClosingTime": "4:00 PM",
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b529"
+  },
+  "WareHouseNumber": 3,
+  "Shipping_DepId": 3,
+  "OpeningTime": "8:00 AM",
+  "ClosingTime": "4:00 PM",
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b536"
+  },
+  "WareHouseNumber": 3,
+  "Shipping_DepId": 3,
+  "OpeningTime": "8:00 AM",
+  "ClosingTime": "4:00 PM",
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+}]

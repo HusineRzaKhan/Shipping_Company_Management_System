@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64916d05848ec84d92c4b4fc"
+  },
+  "ShipperId": 1,
+  "EmployeeId": 345,
+  "TotalDelivered": 10,
+  "RemainingTodeliver": 5,
+  "shipments": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b50e"
+  },
+  "ShipperId": 2,
+  "EmployeeId": 567,
+  "TotalDelivered": 20,
+  "RemainingTodeliver": 10,
+  "shipments": [
+    4,
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b51b"
+  },
+  "ShipperId": 3,
+  "EmployeeId": 789,
+  "TotalDelivered": 30,
+  "RemainingTodeliver": 15,
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b528"
+  },
+  "ShipperId": 3,
+  "EmployeeId": 789,
+  "TotalDelivered": 30,
+  "RemainingTodeliver": 15,
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b535"
+  },
+  "ShipperId": 3,
+  "EmployeeId": 789,
+  "TotalDelivered": 30,
+  "RemainingTodeliver": 15,
+  "shipments": [
+    7,
+    8,
+    9
+  ]
+}]

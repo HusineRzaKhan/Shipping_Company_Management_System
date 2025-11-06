@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "64916cb5848ec84d92c4b4f6"
+  },
+  "DepId": 1,
+  "name": "Department Name",
+  "ManagerId": 1,
+  "type": "Department Type",
+  "TotalPayments": 1000,
+  "TotalCost": 500,
+  "TotalProfit": 500,
+  "TotalOffices": 5,
+  "Postal Address": "123 Street",
+  "City": "City Name",
+  "District": "District Name"
+},
+{
+  "_id": {
+    "$oid": "64916d6d848ec84d92c4b503"
+  },
+  "DepId": 1,
+  "name": "Department Name",
+  "ManagerId": 1,
+  "type": "Department Type",
+  "TotalPayments": 1000,
+  "TotalCost": 500,
+  "TotalProfit": 500,
+  "TotalOffices": 5,
+  "Postal Address": "123 Street",
+  "City": "City Name",
+  "District": "District Name"
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b508"
+  },
+  "DepId": 2,
+  "name": "Sales Department",
+  "ManagerId": 2,
+  "type": "Sales",
+  "TotalPayments": 2000,
+  "TotalCost": 1000,
+  "TotalProfit": 1000,
+  "TotalOffices": 8,
+  "Postal Address": "456 Avenue",
+  "City": "City Name",
+  "District": "District Name"
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b515"
+  },
+  "DepId": 3,
+  "name": "Marketing Department",
+  "ManagerId": 3,
+  "type": "Marketing",
+  "TotalPayments": 3000,
+  "TotalCost": 1500,
+  "TotalProfit": 1500,
+  "TotalOffices": 10,
+  "Postal Address": "789 Road",
+  "City": "City Name",
+  "District": "District Name"
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b522"
+  },
+  "DepId": 3,
+  "name": "Marketing Department",
+  "ManagerId": 3,
+  "type": "Marketing",
+  "TotalPayments": 3000,
+  "TotalCost": 1500,
+  "TotalProfit": 1500,
+  "TotalOffices": 10,
+  "Postal Address": "789 Road",
+  "City": "City Name",
+  "District": "District Name"
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b52f"
+  },
+  "DepId": 3,
+  "name": "Marketing Department",
+  "ManagerId": 3,
+  "type": "Marketing",
+  "TotalPayments": 3000,
+  "TotalCost": 1500,
+  "TotalProfit": 1500,
+  "TotalOffices": 10,
+  "Postal Address": "789 Road",
+  "City": "City Name",
+  "District": "District Name"
+}]

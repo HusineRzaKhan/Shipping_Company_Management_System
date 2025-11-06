@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64916cf5848ec84d92c4b4fb"
+  },
+  "ProductId": 1,
+  "TrackingId": 34,
+  "name": "Product Name",
+  "description": "Product Description"
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b50d"
+  },
+  "ProductId": 2,
+  "TrackingId": 56,
+  "name": "Another Product",
+  "description": "Another Product Description"
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b51a"
+  },
+  "ProductId": 3,
+  "TrackingId": 78,
+  "name": "New Product",
+  "description": "New Product Description"
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b527"
+  },
+  "ProductId": 3,
+  "TrackingId": 78,
+  "name": "New Product",
+  "description": "New Product Description"
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b534"
+  },
+  "ProductId": 3,
+  "TrackingId": 78,
+  "name": "New Product",
+  "description": "New Product Description"
+}]

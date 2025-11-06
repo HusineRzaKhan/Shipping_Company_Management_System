@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64916cc5848ec84d92c4b4f7"
+  },
+  "LicenseNumber": 123,
+  "EmployeeId": 1,
+  "Containers": [
+    123
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916d6d848ec84d92c4b504"
+  },
+  "LicenseNumber": 123,
+  "EmployeeId": 1,
+  "Containers": [
+    123
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b509"
+  },
+  "LicenseNumber": 456,
+  "EmployeeId": 2,
+  "Containers": [
+    67890
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b516"
+  },
+  "LicenseNumber": 789,
+  "EmployeeId": 3,
+  "Containers": [
+    13579
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b523"
+  },
+  "LicenseNumber": 789,
+  "EmployeeId": 3,
+  "Containers": [
+    13579
+  ]
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b530"
+  },
+  "LicenseNumber": 789,
+  "EmployeeId": 3,
+  "Containers": [
+    13579
+  ]
+}]

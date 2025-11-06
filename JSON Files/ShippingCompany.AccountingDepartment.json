@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64916d56848ec84d92c4b500"
+  },
+  "DepartmentID": 3456,
+  "TotalProfit": 1233,
+  "TotalCost": 2345,
+  "TotalPayments": 234
+},
+{
+  "_id": {
+    "$oid": "64916dbc848ec84d92c4b512"
+  },
+  "DepartmentID": 6789,
+  "TotalProfit": 3456,
+  "TotalCost": 5678,
+  "TotalPayments": 678
+},
+{
+  "_id": {
+    "$oid": "64916dfb848ec84d92c4b51f"
+  },
+  "DepartmentID": 9876,
+  "TotalProfit": 4321,
+  "TotalCost": 8765,
+  "TotalPayments": 987
+},
+{
+  "_id": {
+    "$oid": "64916dfe848ec84d92c4b52c"
+  },
+  "DepartmentID": 9876,
+  "TotalProfit": 4321,
+  "TotalCost": 8765,
+  "TotalPayments": 987
+},
+{
+  "_id": {
+    "$oid": "64916e01848ec84d92c4b539"
+  },
+  "DepartmentID": 9876,
+  "TotalProfit": 4321,
+  "TotalCost": 8765,
+  "TotalPayments": 987
+}]
