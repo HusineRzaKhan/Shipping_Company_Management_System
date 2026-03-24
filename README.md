@@ -2,6 +2,13 @@
 
 A comprehensive database management system for a shipping company built with MongoDB and Java, designed to handle various aspects of shipping operations including customer management, shipment tracking, warehouse management, and employee administration.
 
+## 💖 Support my Open-Source Journey
+
+I am a software engineer and student dedicated to building tools that give users back their digital agency. If my work has saved you time, solved a technical headache, or improved your workflow, consider supporting my independent development!
+
+☕ **[Support my work on Patreon (Buy Me a Coffee)](https://patreon.com/HussainRazaKhan)** or 
+    **NayaPay ID:** `HusineRzaKhan@nayapay`
+
 ## 📋 Project Overview
 
 This system provides an end-to-end solution for managing a shipping company's operations, including:
